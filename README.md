@@ -1,5 +1,4 @@
-# brorecursividad
- <h1 align="center">	Recursividad</h1>
+ <h1 align="center">	Brorecursividad</h1>
 
 <h2>Repositorio:</h2>
 
