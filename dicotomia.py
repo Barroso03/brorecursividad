@@ -20,7 +20,7 @@ def dicotonomia_recursiva (tabla, t):
                 return dicotonomia_recursiva (tabla[i:m-1], t)
 
 def dicotonomia (tabla, t):
-    return dicotonomia_recursiva (tabla, t)
+  return dicotonomia_recursiva (tabla, t)
 
 if __name__ == "__main__":
     #Entrada
